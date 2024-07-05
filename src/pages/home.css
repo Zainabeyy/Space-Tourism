@@ -1,6 +1,6 @@
 .homePage {
   min-height: 100vh;
-  background-image: url("../../public/home/background-home-mobile.jpg");
+  background-image: url("../../home/background-home-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
@@ -54,7 +54,7 @@ a.exploreLink:is(:hover, :focus) {
 }
 @media only screen and (min-width: 375px) {
   .homePage {
-    background-image: url("../../public/home/background-home-tablet.jpg");
+    background-image: url("../../home/background-home-tablet.jpg");
   }
 }
 
@@ -83,7 +83,7 @@ a.exploreLink:is(:hover, :focus) {
 
 @media only screen and (min-width: 1100px) {
   .homePage {
-    background-image: url("../../public/home/background-home-desktop.jpg");
+    background-image: url("../../home/background-home-desktop.jpg");
     text-align: left;
     display: flex;
     align-items: flex-end;

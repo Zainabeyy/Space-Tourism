@@ -34,7 +34,7 @@ export default function Nav() {
   return (
     <nav>
       <div className="nav">
-        <img src="../../public/shared/logo.svg" alt="logo" className="logo" />
+        <img src="../../shared/logo.svg" alt="logo" className="logo" />
         <button className="HamburgerNav" onClick={updateMenu} aria-label="Menu">
           <span className={burgerClass}></span>
           <span className={burgerClass}></span>

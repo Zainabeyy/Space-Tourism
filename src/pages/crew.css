@@ -4,13 +4,13 @@
 
 @media only screen and (min-width:376px){
     div.crewPage{
-        background-image: url('../../public/crew/background-crew-tablet.jpg');
+        background-image: url('../../crew/background-crew-tablet.jpg');
         background-size: cover;
     }
 }
 @media only screen and (min-width:650px) {
     div.crewPage{
-        background-image: url('../../public/crew/background-crew-desktop.jpg');
+        background-image: url('../../crew/background-crew-desktop.jpg');
     }
 }
 
@@ -21,7 +21,7 @@
 
 .crewPage {
     text-align: center;
-    background-image: url('../../public/crew/background-crew-mobile.jpg');
+    background-image: url('../../crew/background-crew-mobile.jpg');
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;

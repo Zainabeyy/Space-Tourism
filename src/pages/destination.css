@@ -80,17 +80,17 @@ p.Measurement{
 
 @media only screen and (max-width:375px){
     .destinationPage{
-        background-image: url("../../public/destination/background-destination-mobile.jpg");
+        background-image: url("../../destination/background-destination-mobile.jpg");
     }
 }
 @media only screen and (max-width:768px){
     .destinationPage{
-        background-image: url("../../public/destination/background-destination-tablet.jpg");
+        background-image: url("../../destination/background-destination-tablet.jpg");
     }
 }
 @media only screen and (min-width:768px){
     .destinationPage{
-        background-image: url("../../public/destination/background-destination-desktop.jpg");
+        background-image: url("../../destination/background-destination-desktop.jpg");
     }
 }
 
